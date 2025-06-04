@@ -1,2 +1,2 @@
 # GRM-TEST-BACK
-Repositorio de prueba tecnica con Java y  Springboot JWT
+Desarrollo de API para CRUD de una clinica Java y  Springboot JWT
